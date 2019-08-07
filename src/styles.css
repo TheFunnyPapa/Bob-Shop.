@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+a{
+    margin-left: 10px; 
+}
+.about{
+    color: rgb(43, 174, 226);
+    font-family: "Arial",serif;
+}
+.photo{
+width: 130px;
+height: 150px;
+}
