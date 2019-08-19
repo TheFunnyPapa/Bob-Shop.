@@ -58,6 +58,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
+ngx-bootstrap/alert
+
+ngx-bootstrap/carousel
+
+ngx-bootstrap/utils
+
 rxjs
 Apache-2.0
                                Apache License
