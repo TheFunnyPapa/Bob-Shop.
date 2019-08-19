@@ -1,0 +1,25 @@
+.photo{
+    height: 180px;
+    width: 120px;
+}
+/* .carousel-item{
+    position: relative;
+    max-width: 30%;
+    max-height: 30%
+}
+.carousel.slide{
+    position: relative;
+    max-width: 30%;
+    max-height: 30%
+} */
+.offer-detail-image {
+    display: block;
+    overflow: visible;
+    width: 100%;
+    height: auto;
+    margin-right: auto;
+    margin-bottom: 12px;
+    margin-left: auto;
+    float: none;
+  }
+  

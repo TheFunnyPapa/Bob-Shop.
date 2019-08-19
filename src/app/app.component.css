@@ -5,3 +5,11 @@
     text-decoration: rgb(255, 217, 0)  underline;
     position: relative;
 }
+.photo{
+    width: 130px;
+    height: 180px;
+}
+.yo{
+    font-family: "Arial",serif;
+    font-size: 40%;
+}
