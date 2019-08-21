@@ -17,4 +17,13 @@
      font-family: 'Courier New', Courier, monospace
  }
 
+ .carousel-control-prev-icon{
+    background-color: black;
+}
+.carousel-control-next-icon{
+    background-color: black;
+}
+.carousel-control-next, .carousel-control-prev{
+    width: 68%;
+}
  
