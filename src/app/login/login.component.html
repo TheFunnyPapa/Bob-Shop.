@@ -1,0 +1,14 @@
+<form>
+    <div class="form-group" align="center">
+        <img id="BobImg" src="https://cdn10.bigcommerce.com/s-d2dn6h1e/products/77/images/339/bobthebuilder__87641.1444836482.1280.1280.jpg?c=2">
+        <h2>Welcome to Bob Shop.</h2>
+        <br />
+        <input [(ngModel)]="userName"  #input type="text" class="form-control" placeholder="Username" name="Username">
+        <br>
+        <input [(ngModel)]="password" #input type="password" class="form-control" placeholder="Password" name="Password">
+        <br />
+        <label *ngIf="msg != null ">{{msg}}</label>
+        <br />
+        <button *ngIf="userName != '' && password != '' " id="buttonid" type="button" class="btn btn-primary" (click)="click()">Log in</button>
+    </div>
+</form>
